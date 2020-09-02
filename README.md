@@ -5,5 +5,5 @@ Someone who just tries to be human</p><p align='left'> You can view my resume <a
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=lactobasilusprotectus alt=lactobasilusprotectus /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lactobasilusprotectus&show_icons=true&include_all_commits=true)](https://github.com/lactobasilusprotectus/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactobasilusprotectus&layout=compact)](https://github.com/lactobasilusprotectus/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lactobasilusprotectus&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/lactobasilusprotectus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactobasilusprotectus&theme=onedark)](https://github.com/lactobasilusprotectus/github-readme-stats)
