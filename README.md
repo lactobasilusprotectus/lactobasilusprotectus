@@ -12,7 +12,7 @@ Hello everyone, I am Amru Fakharullah, can be called Amru. I am an IT-PLN Jakart
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently intern on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently intern on **department information system - ITPLN**
 - 🤝 &nbsp; I’m looking to collaborate on [ci4-installer](https://github.com/lactobasilusprotectus/ci4-installer)
 - 🌱 &nbsp; I’m currently learning Javascript, Python, GO; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com//lactobasilusprotectus?tab=repositories)
