@@ -1,9 +1,34 @@
-## Hey 👋, This is Amru Fakharullah
-[![Gmail Badge](https://img.shields.io/badge/-amru1731218@itpln.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amru1731218@itpln.ac.id)](mailto:amru1731218@itpln.ac.id) [![Github Badge](https://img.shields.io/badge/-lactobasilusprotectus-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lactobasilusprotectus/)](https://www.github.com/lactobasilusprotectus/) <p align='left'>Hi, I am Amru.
+## Hey 👋, I'm Amru Fakharullah!
+<a href='https://www.linkedin.com/in//amru-fakharullah-389840192/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-Someone who just tries to be human</p><p align='left'> You can view my resume <a href='amruspace.my.id ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=lactobasilusprotectus alt=lactobasilusprotectus /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lactobasilusprotectus&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/lactobasilusprotectus/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactobasilusprotectus&theme=onedark&layout=compact)](https://github.com/lactobasilusprotectus/github-readme-stats)
+Hello everyone, I am Amru Fakharullah, can be called Amru. I am an IT-PLN Jakarta informatics engineering final year student. I like to open up technologies that I like such as frameworks (Laravel, Codeigniter 4), AR, and JAMStack (HUGO)
+
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently intern on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [ci4-installer](https://github.com/lactobasilusprotectus/ci4-installer)
+- 🌱 &nbsp; I’m currently learning Javascript, Python, GO; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com//lactobasilusprotectus?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/amru-fakharullah-389840192/)
+- 
+<br>
+
+### 🔨 Languages and Tools:
+
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/lactobasilusprotectus/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/lactobasilusprotectus/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/lactobasilusprotectus/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
